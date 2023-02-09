@@ -1,4 +1,10 @@
-# Orbital
+-   [Google](https://google.com)
+-   [Youtube](https://www.youtube.com)
+-   [Spotify](https://spotify.com)
+-   [Discord](https://discord.com)
+-   [Reddit](https://reddit.com)
+-   [GeForce NOW](https://play.geforcenow.com/)
+-   [now.gg](https://now.gg)# Orbital
 ## A proxy combining style and function. 
 Orbital is a proxy that uses the UltraViolet backend by TN to unblock all your favorite sites!
 ## Deployment
@@ -12,14 +18,14 @@ npm start
 ```
 Note that if you are hosting on a service such as REPLIT, you will need to make sure you are in Node.JS before proceeding.
 ## Supported Sites:
--Discord
--HCaptcha
--ReCaptcha
--Google
--YouTube
--Various Gaming Sites
--GeForce Now (Partial)
--And more!
+-   [Google]
+-   [Youtube]
+-   [Spotify]
+-   [Discord]
+-   [Reddit]
+-   [GeForce NOW]
+-   [Various Game Sites]
+-   [And More!]
 
 
 ### https://orbitalofficial.net/
