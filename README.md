@@ -10,7 +10,7 @@ Orbital can be deployed almost anywhere you would like!
 To deploy Orbital:
 
 ```
-git clone https://github.com/Adirman/orbitalofficial.net.git
+git clone https://github.com/smooktober/orbitalofficial.net.git
 npm install
 npm start
 ```
